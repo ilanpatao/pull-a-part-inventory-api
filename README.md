@@ -13,7 +13,7 @@ Build and initiate calculation on vehicle sales in your developments.
 Auto calculate and validate margins or compare data to data in your environments.
 Automate/Data capture, or scrape; and quickly find vehicles by location or other metrics.
 
-Demo: https:/pull-a-part-inventory-api.herokuapp.com 
+Demo: https:/pull-a-part-inventory-api.herokuapp.com/
 
 Author:
 Ilan Patao (ilan@dangerstudio.com)
